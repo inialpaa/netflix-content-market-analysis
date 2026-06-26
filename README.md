@@ -1,6 +1,6 @@
 # Netflix Content & Market Analysis
 
-Proyek ini berfokus pada proses end-to-end *Data Wrangling* menggunakan **MySQL** untuk membersihkan, mentransformasikan, dan mengoptimalkan dataset mentah Netflix, diikuti dengan pembangunan *Executive Dashboard* interaktif menggunakan **Google Looker Studio**.
+Proyek ini berfokus pada proses end-to-end *Data Wrangling* menggunakan **MySQL** untuk membersihkan, mentransformasikan, dan mengoptimalkan dataset mentah Netflix, diikuti dengan pembangunan *Dashboard* interaktif menggunakan **Google Looker Studio**.
 
 ---
 
