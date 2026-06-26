@@ -53,7 +53,3 @@ Dataset Netflix memiliki potensi besar untuk mengungkap tren hiburan global. Nam
 * 📄 **Dataset:** [Lihat di sini](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 * 📄 **SQL Script:** [Lihat di sini](netflix_content_market_analysis.sql)
 * 📊 **Interactive Dashboard:** [Lihat di sini](https://datastudio.google.com/reporting/22439aeb-6b9e-4a1f-b065-6cb7b9eb5acd)
-
----
-
-*Catatan: Kamu bisa menambahkan tautan/link ke file SQL kuerimu atau link visualisasi Looker Studio di bagian bawah ini jika dashboard-nya sudah dipublikasikan.*
